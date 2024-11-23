@@ -7,7 +7,7 @@ terraform {
     workspaces {
       name = "learn-terraform-eks"
     }
-  } cencoenicneinfcne
+  } cencoenicneinfcne ceomcoemcoemcoemc
 */
 
   required_providers {
